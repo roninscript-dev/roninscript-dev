@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm RoninScript 👋 🦀
 
-<!--
-**roninscript-dev/roninscript-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Modern Rust Developer | AI-Augmented Builder | Student from Thailand 🇹🇭
 
-Here are some ideas to get you started:
+I am a passionate Software Engineering student focused on building high-performance, safe, and efficient software using **Rust**. I leverage AI-driven workflows to deliver high-quality code at speed. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Tech Stack
+
+- **Primary Language:** Rust (Learning & Growing)
+- **Focus Areas:** CLI Tools, WebAssembly, Backend Systems
+- **Workflow:** AI-Augmented Development (Copilot/Gemini/GPT-4)
+- **OS:** Linux / Windows (WSL2)
+
+## 🔭 Current Projects
+- 🦀 **[Project Name 1]**: Short description of what it does (e.g., A high-performance log analyzer in Rust).
+- ⚙️ **[Project Name 2]**: (Coming Soon) Building something cool for the global market.
+
+## 📊 GitHub Stats
+![RoninScript's GitHub stats](https://github-readme-stats.vercel.app/api?username=roninscript&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roninscript&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to reach me:
+- **Email:** [roninscript.dev@gmail.com](mailto:roninscript.dev@gmail.com)
+- **Location:** Based in Thailand (Working Globally 🌍)
+
+*"Safe code. Fast execution. Modern mindset."*
