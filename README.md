@@ -39,8 +39,8 @@ With over a decade of experience in game server architecture and systems program
 ---
 
 ## 📊 GitHub Stats
-![RoninScript's GitHub stats](https://github-readme-stats.vercel.app/api?username=roninscript&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roninscript&layout=compact&theme=tokyonight)
+![RoninScript's GitHub stats](https://github-readme-stats.vercel.app/api?username=roninscript-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roninscript-dev&layout=compact&theme=tokyonight)
 
 ---
 
