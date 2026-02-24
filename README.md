@@ -1,51 +1,57 @@
-# Hi there, I'm RoninScript 👋 ⚔️
+# ⚔️ RoninScript | High-Performance Systems & Security Engineer
 
-### Full-Stack Developer | Systems Engineer | Cybersecurity Enthusiast | Game Tech Expert
+### "14+ Years of Architecting Game Systems, Cracking Binaries, and Building the Future with Rust."
 
-With over a decade of experience in game server architecture and systems programming, I specialize in building high-performance applications, reverse engineering, and securing networks. From low-level memory hacking to modern web ecosystems, I bridge the gap between performance and scalability.
-
----
-
-## 🚀 Expertise & Experience
-
-- **Game Development & Systems:** - 10+ years in **MTA:SA** and 4 years in **FiveM** server architecture.
-  - Custom game engine tools, GRM server programs, and game automation (AI-powered macros & overlays).
-  - Proficient in **Unity** and **Godot**.
-- **Reverse Engineering & Security:**
-  - Experience in **Reverse Engineering (.exe)** and memory manipulation.
-  - Network security research, including DDoS simulation and mitigation tools.
-- **Web & Backend:** - **Modern Stack:** Next.js, Node.js, Laravel.
-  - **Legacy & Core:** PHP, HTML, CSS, JavaScript.
-  - **Databases:** MySQL, PostgreSQL, SQLite.
-- **AI & Automation:** - Training custom AI models for gaming automation and computer vision tasks.
-  - Discord bot development (Advanced automation).
+I am a **Systems Architect** and **Security Researcher** with a deep-rooted history in game server internals. From optimizing high-traffic game servers (MTA/FiveM) to reverse-engineering complex binaries and training custom AI for automation, I thrive in the "low-level" where performance meets security.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Beyond the Code: Core Capabilities
 
-- **Languages:** `Rust` (Current Focus), `C++`, `C#`, `Python`, `GDScript`, `JavaScript/TypeScript`, `PHP`, `SQL`.
-- **Frameworks:** Next.js, Node.js, Laravel, Unity, Godot.
-- **Infrastructure:** Linux Server Management, Network Security, Database Design.
-
----
-
-## 🔭 Featured Projects
-
-- 🦀 **[Rust-based Project]**: (In Progress) High-performance system tool.
-- 🎮 **AI Game Assistant**: Custom-trained AI for game overlays and macro automation.
-- 🌐 **Advanced Web Systems**: Full-stack applications with Next.js & PostgreSQL.
+Beyond standard development, I bring specialized expertise in:
+- **Binary & Memory Forensics:** Deep experience in `.exe` reverse engineering, memory injection, and bypass techniques.
+- **High-Load Architecture:** 10+ years managing and scaling game server infrastructures (GRM, MTA:SA, FiveM) with thousands of concurrent users.
+- **AI-Driven Automation:** Developing custom Computer Vision (CV) models for real-time game state analysis and macro-automation.
+- **Network Warfare & Defense:** Simulation of DDoS attack vectors and building robust mitigation layers at the kernel level.
 
 ---
 
-## 📊 GitHub Stats
-![RoninScript's GitHub stats](https://github-readme-stats.vercel.app/api?username=roninscript-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roninscript-dev&layout=compact&theme=tokyonight)
+## 🏗️ The Vault (Tech Stack)
+
+| Domain | Expertise |
+| :--- | :--- |
+| **Systems / Low-Level** | **Rust (Active Focus)**, C++, C#, Reverse Engineering, Assembly (Basic) |
+| **Game Tech** | Unity, Godot, MTA:SA (10y+), FiveM (4y+), GDScript |
+| **Full-Stack Web** | Next.js, Node.js, Laravel, PHP (Legacy Expert), CSS/HTML/JS |
+| **Data & Infrastructure** | PostgreSQL, MySQL, SQLite, Linux Server Hardening, Networking |
+| **AI & Automation** | Custom Model Training (YOLO/TensorFlow), Discord Bot Ecosystems |
 
 ---
 
-## 📫 Get in Touch
-- **Email:** [roninscript.dev@gmail.com](mailto:roninscript.dev@gmail.com)
-- **Location:** Based in Thailand (Available for Global Remote Work 🌍)
+## 🔭 Key Initiatives
 
-*"From Reverse Engineering to Building the Future. Fast, Secure, and Efficient."*
+### 🦀 [Project-X] - High-Performance Rust Toolkit
+*Building a suite of system tools in Rust to replace legacy C++ utilities, focusing on memory safety and extreme concurrency.*
+
+### 🤖 Neural Gaming Overlay
+*A real-time AI assistant using custom-trained models to provide in-game HUD overlays and automated macro logic.*
+
+### 🛡️ Network Sentinel
+*A collection of security scripts and DDoS analysis tools developed over years of defending game infrastructures.*
+
+---
+
+## 📊 Performance Metrics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=roninscript-dev&show_icons=true&theme=tokyonight&count_private=true" alt="RoninScript's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roninscript-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+- 📧 **Direct:** [roninscript.dev@gmail.com](mailto:roninscript.dev@gmail.com)
+- 📍 **Base:** Thailand (Global Collaboration Ready)
+- 🤝 **Open for:** High-stakes contract work, Security audits, and Rust-based systems development.
+
+*"I don't just write software; I engineer solutions that survive the battlefield of production."*
