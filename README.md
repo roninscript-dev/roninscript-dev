@@ -51,6 +51,7 @@ Beyond standard development, I bring specialized expertise in:
 
 ## 🌐 Connect with Me
 - 📧 **Direct:** [roninscript.dev@gmail.com](mailto:roninscript.dev@gmail.com)
+- 💬 **Discord:** `ronin.4932` (Available for technical discussion)
 - 📍 **Base:** Thailand (Global Collaboration Ready)
 - 🤝 **Open for:** High-stakes contract work, Security audits, and Rust-based systems development.
 
